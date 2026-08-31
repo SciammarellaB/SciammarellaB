@@ -47,3 +47,14 @@ Também utilizo este espaço para estudos e projetos pessoais envolvendo intelig
     <img src="https://img.shields.io/badge/Gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </div>
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=SciammarellaB&theme=dark&hide_border=false"
+      alt="Sequência de contribuições no GitHub"
+    >
+  </a>
+</p>
